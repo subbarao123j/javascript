@@ -98,9 +98,47 @@ push commands
 tomorrow develoepr added file to my repo in github and i also have new file then push it will erro so pull first and then push comand
 
 =================
+Sumamry
+
+Termonnoligy understnding..repo, remote, locally....adding..comming..pushing ..pulling..
+
+1st time
+
+git init
+git add  .
+git commit -m "first commit"
+git remote add origin https://github.com/subbarao123j/javascript.git
+git push -u origin master
+
+Next time, if only push scenario(added locally one file )
+
+
+git add .
+git commit -m "first commit"
+
+git push 
 
 
 
+Only Pull scenario (t repo some one has added one file to same repo)
+
+git add .
+git commit -m "first commit"
+
+git pull
+
+
+there is pulle and push scerios (added locally one file and at repo some one has added one file to same repo)
+
+git add .
+git commit -m "first commit"
+
+git pull
+git push
+
+---------
+branching later above scenario same branch 
+Queries asked and ansered
 
 
 
