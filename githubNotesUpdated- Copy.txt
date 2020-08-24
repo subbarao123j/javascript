@@ -68,9 +68,9 @@ else if anyone has changed anyof the file then first pull and then push
 
 to ge the updated code on the repo and then push ..
 
-u cannot push into my repo ..u ahve to make ur own repo and push 
+u cannot push into my repo ..u ahve to make ur own repo and push //to push into others repo then they needto add your useraccount to push u permisions need to give
 
-Regarfing braches--insted of master we use our branch name 
+Regarfing braches--insted of master we use our branch name later, if branch is diffeent
 
 
 git remote -v  //in our local repositery can w e see our directloy connected with this repo..it will tell you where it is linked 
@@ -140,5 +140,17 @@ git push
 branching later above scenario same branch 
 Queries asked and ansered
 
+1) to see which repositery it is connected
+git remote -v
+git remote -v  //in our local repositery can w e see our directloy connected with this repo..it will tell you where it is linked 
+
+2) u cannot push into my repo ..u ahve to make ur own repo and push //to push into others repo then they needto add your useraccount to push u permisions need to give
+3) one repo for one remote
+
+i have given one address and it should goto that one address only --how can i go two address at one time
+
+4) f you ever login into your system into github..then while pushing it will ask we have to give  othewise you have alreay login then it will proceed
+5) Regarfing braches--insted of master we use our branch name later, if branch is diffeent
+------------
 
 
