@@ -1,0 +1,90 @@
+Github is very important in the developer life
+
+why so
+
+All the people share their code through git
+
+Suppose i am working on one project i have to make one Repo bythe name of that project, over that Repo i have to push that code
+
+when you follow..by default you will get notifcation for every push
+
+if you make public everyone can use it , if you make it private only you can use it
+
+one repo got created
+
+it givesme this type cpmmands
+
+/////Github
+echo "# javascript" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/subbarao123j/javascript.git
+git push -u origin master
+
+/////
+
+
+if you are using winows uneed to download one thing called gitbash
+
+in mac you have terminal that can talk to git
+
+but widnow you have to instaall git bash..after isntall
+
+suppose you have one folder where you want to push the code..going that folder and right click git bash here, it will open one terminal 
+
+i will say for very first time for one repositery
+
+{{ first time for particular repo}}
+
+git init     /// to initialize the git--initilaise the git in that folder --check one hidden folder .git generated 
+git add .   /// add everythiing..it add all the files 
+git commit -m "first commit"
+git remote add origin https://github.com/subbarao123j/javascript.git//// what remote will do remote will connect to your local folder //where you want to link//take that link after //you ahve to conne with onlinee git repositey created one link is generated automatically and copy and rightclick and paste ///how my local sytem know that push into this repo 
+git push -u origin master  ////wait for that termail after push for confirmation 
+
+
+{next every time for particular repo } you will take only three commands
+
+git add .   /// add everythiing
+git commit -m "first commit"
+git push -u origin master     //first time only orign master needed
+
+--Branches and all will take it in upcoming sessions 
+
+///
+add or remove anything 
+
+only
+
+ git add .
+
+git commit -m "second commit"
+
+git push
+
+if you want to add or delete --jsut push
+else if anyone has changed anyof the file then first pull and then push
+
+to ge the updated code on the repo and then push ..
+
+u cannot push into my repo ..u ahve to make ur own repo and push 
+
+Regarfing braches--insted of master we use our branch name 
+
+
+git remote -v  //in our local repositery can w e see our directloy connected with this repo..it will tell you where it is linked 
+
+
+one repo for one remote
+
+i have given one address and it should goto that one address only --how can i go two address at one time
+
+
+if you ever login into your system into github..then while pushing it will ask we have to give  othewise you have alreay login then it will proceed
+
+
+
+
+
+
