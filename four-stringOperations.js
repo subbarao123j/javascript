@@ -160,9 +160,99 @@ how to push pull the code , anyway part of ir Course
 
 when you are on the git i will tell you how to make pull request also
 
+///////////////// Differences//////////
+slice(start,end?)
+substring(start,end?)
+substr(start,length?)
+
+///////////////////
+
+var city = "Hyderarabad"
+undefined
+city.slice(1)
+"yderarabad"
+city.slice(2)
+"derarabad"
+city.slice(2,5)
+"der"
+city.substring(1)
+"yderarabad"
+city.substring(2)
+"derarabad"
+city.substring(2,5)
+"der"
 
 
+city.substr(1)
+"yderarabad"
+city.substr(2)
+"derarabad"
 
+
+city.substr(2,5)
+"derar"
+/////////////
+
+substr--- what ever negative value it does not matter
+city.slice(-1,-3)
+""
+city.substring(-1,-3)
+""
+city.substring(-1)
+"Hyderabad"
+city.substring(-1,3)
+"Hyd"
+city.substring(-2,5)
+"Hyder"
+city.slice(1,-3)
+"ydera"
+
+> one from the beginnning and 3 from the end 
+
+city.slice(1,-3)
+"ydera"
+
+first one should be smaller and second should be larger
+
+
+//For slice, if single/first letter is negative --then you will get last letter
+//where as substring doesnot work 
+
+//neither slice or substring if firstletter is  smaller it doesnot work --first negative and second is +ve will not work
+
+//where as  for slice first +ve and next -ve that will remove for slice
+
+var city = "Hyderarabad"
+undefined
+city.substr(-1)
+"d"
+city.substr(-1,-3)
+""
+city.substr(-1,-4)
+""
+
+/// -3 is smaller than the -1.....First one is must be smaller 
+
+////////////////
+var a =833983
+undefined
+a.toString()
+"833983"
+/////////
+
+a.toString().slice(1)
+"4533"
+
+This is called typin g---multiple operatiors //output of tostring is input to slice
+
+
+var b =a.toString()
+undefined
+var c= b.slice(1)
+undefined
+
+saving above code in multiple variables 
+////
 
 
 

@@ -134,3 +134,8 @@ I am not about days and i am about content
 
 make a habit of revisoion 
 come to this link and....see the code what we written
+
+=====================
+3rd class
+if both side number where as string or number with 
++ they will concat-*/% they oeprate

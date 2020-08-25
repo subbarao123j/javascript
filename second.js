@@ -148,7 +148,7 @@ Number is new way of converting  string numeric to pure numberic
 
 var a = prompt("Enter first number")
 var b = prompt("Enter second number")
-alert(Number(a)+Number(b))
+alert(Number(a)+Number(b)) 
 
 
 >>html , CSS is static thing..u cannot debug only JS code can debug is a static file
@@ -156,4 +156,11 @@ alert(Number(a)+Number(b))
 ********************\
 till this point/ topic conecept WritableStream..ther is no other way
 later all are application oriented but u cannot expect full blown in javascript application 
+here in small concepts you build the logics and here in framework u impleemnt the logic
+not fullfledge application here we are not making..these are small small apps
 
+serverside only can talk to db...these are client side and here iam going to call api and then can get current webkitConvertPointFromNodeToPage...and curretn weather
+
+Thype script is also same like Ecma script but u have to mention the datatype specifcally
+
+you need to write some functions and inside u can write this code and actuaaly u have to invoke that directly cannot use it..there is invocation 
