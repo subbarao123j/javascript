@@ -152,5 +152,8 @@ i have given one address and it should goto that one address only --how can i go
 4) f you ever login into your system into github..then while pushing it will ask we have to give  othewise you have alreay login then it will proceed
 5) Regarfing braches--insted of master we use our branch name later, if branch is diffeent
 ------------
+git clone (urlFrom Git hub)
+
+so no need to create folder manually and then remote step no need
 
 
