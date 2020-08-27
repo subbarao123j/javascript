@@ -156,4 +156,11 @@ git clone (urlFrom Git hub)
 
 so no need to create folder manually and then remote step no need
 
+-------------
 
+goto control panel--user accoun--manage credentials--Windows---remove existing one or check what is currently it is saved in windows...
+
+after remove try with new one...
+
+
+-------------------
